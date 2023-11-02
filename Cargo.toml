@@ -1,0 +1,16 @@
+[package]
+name = "chemistru-macro-map"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[lib]
+proc-macro = true
+
+[dependencies]
+chemistru-elements = "0.5.0"
+proc-macro2 = "1.0.69"
+quote = "1.0.33"
+serde_json = { version = "1.0.107", features = ["preserve_order"] }
+syn = "2.0.38"
