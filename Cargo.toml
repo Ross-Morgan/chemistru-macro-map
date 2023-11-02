@@ -3,9 +3,8 @@ name = "chemistru-macro-map"
 version = "0.1.0"
 edition = "2021"
 
-description = ""
+description = "Procedural macro that generates a constant time mapping of proton number to its element"
 license = "BSD-3"
-license-file = "LICENSE"
 documentation = "https://docs.rs/chemistru-macro-map"
 repository = "https://github.com/Ross-Morgan/chemistru-macro-map"
 
