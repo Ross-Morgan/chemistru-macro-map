@@ -3,6 +3,12 @@ name = "chemistru-macro-map"
 version = "0.1.0"
 edition = "2021"
 
+description = ""
+license = "BSD-3"
+license-file = "LICENSE"
+documentation = "https://docs.rs/chemistru-macro-map"
+repository = "https://github.com/Ross-Morgan/chemistru-macro-map"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [lib]
